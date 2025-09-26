@@ -23,10 +23,10 @@ It explores both **Convolutional Neural Networks (CNNs)** and **Spiking Neural N
 
 ## 🚀 How to Run
 1. Clone this repository  
-   ```bash
-   git clone https://github.com/anand25116/sign-language-interpreter.git
-   cd sign-language-interpreter
-   ```
+```bash
+git clone https://github.com/anand25116/sign-language-interpreter.git
+cd sign-language-interpreter
+```
 2. Install dependencies
 ```bash
 pip install -r requirements.txt
@@ -56,5 +56,6 @@ python src/train_snn.py
 - Real-time hand gesture detection via webcam (OpenCV).
 
 - Extend to word-level sign recognition.
+
 
 - Deploy as a web/mobile app.
